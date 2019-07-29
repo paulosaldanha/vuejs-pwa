@@ -1,6 +1,6 @@
 # vue-pwa
 
-> A Vue.js project
+> A Vue.js PWA project with service workers and local storage
 
 ## Build Setup
 
